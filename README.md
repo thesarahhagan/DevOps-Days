@@ -18,6 +18,7 @@ We know DevOps culture requires increased collaboration between teams to move fa
 * HBR's [Communicating Strategically with Direct Reports](https://hbr.org/2008/02/communicating-strategically-wi)
 
 ### Understanding Diverse Perspectives
+* Google's [Unconscious Bias At Work](https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/watch-unconscious-bias-at-work/)
 * Facebook's [Understanding Unconscious Bias](https://managingbias.fb.com/)
 * A great infographic of [20 Cognitive Biases](http://www.businessinsider.com/cognitive-biases-that-affect-decisions-2015-8?utm_source=feedly)
 
