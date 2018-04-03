@@ -13,6 +13,7 @@ We know DevOps culture requires increased collaboration between teams to move fa
 * By Dev Patnaik, [Wired to Care: How Companies Prosper When They Create Widespread Empathy](https://www.amazon.com/Wired-Care-Companies-Prosper-Widespread/dp/013714234X)
 
 ### Giving Feedback and Having Tough Conversations:
+* Kim Scott's [Radical Candor](https://www.radicalcandor.com/)
 * Practicing [Collaborative Communication](https://www.wikihow.com/Practice-Nonviolent-Communication)
 * HBR's [Giving Feedback to your Team](https://hbr.org/2014/06/how-to-give-your-team-feedback)
 * HBR's [Communicating Strategically with Direct Reports](https://hbr.org/2008/02/communicating-strategically-wi)
