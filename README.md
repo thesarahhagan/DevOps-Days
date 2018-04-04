@@ -14,6 +14,7 @@ We know DevOps culture requires increased collaboration between teams to move fa
 
 ### Giving Feedback and Having Tough Conversations:
 * Kim Scott's [Radical Candor](https://www.radicalcandor.com/)
+* The Sandwich Feedback Method: Not Very Tasty by [Von Bergen et al., 2014](http://aabri.com/manuscripts/141831.pdf)
 * Practicing [Collaborative Communication](https://www.wikihow.com/Practice-Nonviolent-Communication)
 * HBR's [Giving Feedback to your Team](https://hbr.org/2014/06/how-to-give-your-team-feedback)
 * HBR's [Communicating Strategically with Direct Reports](https://hbr.org/2008/02/communicating-strategically-wi)
