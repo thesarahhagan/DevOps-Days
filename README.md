@@ -13,11 +13,11 @@ We know DevOps culture requires increased collaboration between teams to move fa
 * By Dev Patnaik, [Wired to Care: How Companies Prosper When They Create Widespread Empathy](https://www.amazon.com/Wired-Care-Companies-Prosper-Widespread/dp/013714234X)
 
 ### Personality and Talent Assessments
-* Gallup's [StrengthsFinder](https://www.gallupstrengthscenter.com/Purchase/en-US/ProductDetails/10108/top-5-cliftonstrengths-access)  
+* **[Clifton Strengths](https://www.gallupstrengthscenter.com/Purchase/en-US/ProductDetails/10108/top-5-cliftonstrengths-access)**   
   Pay $20 to take a 10-minute forced-choice self-report measure that will give you your top 5 strengths out of 34. Sometimes called <i>talent themes</i>, each of the [strengths](https://www.gallupstrengthscenter.com/Home/en-US/CliftonStrengths-Themes-Domains) falls under a theme: executing, strategic thinking, influencing, or relationship-building. 
-* Tony Robbins' [free DISC assessment](https://www.tonyrobbins.com/disc/)  
-  Free assessment (this usually costs money, so this is a great resource!) to help you better understand your personality and behavioral styles. This 10-minute survey will ask you questions that will determine whether you're task-focused, people-focused, passive, or active. _I recommend using a fake email address._
-* The [IPIP-NEO long and short versions](http://www.personal.psu.edu/~j5j/IPIP/)
+* **A consultant's [free DISC assessment](https://www.tonyrobbins.com/disc/)**   
+  Free assessment (this usually costs money, so this is a great resource!) to help you better understand your personality and behavioral styles. This 10-minute survey will ask you questions that will determine whether you're task-focused, people-focused, passive, or active. _I do not endorse the views of this consultant, but the test linked is validated and will provide a free report regardless of the validity of the email address you use._
+* **The [IPIP-NEO long and short versions](http://www.personal.psu.edu/~j5j/IPIP/)**  
   A free personality test that measures the Big Five personality traits (note this is not the version of the test that is used by clinicians, but it's a version of something similar). Pros: It's free! Cons: It's not the best user experience, and also you have to copy/paste your results somewhere to save it (instead of a nice printed PDF like the two above).
 
 ### Giving Feedback and Having Tough Conversations:
