@@ -1,8 +1,8 @@
 # You're so empathetic, you probably know this talk's not about you.
-Accompanying repository for the DevOps Days 2018 [Seattle](https://www.devopsdays.org/events/2018-seattle/welcome/) and [Silicon Valley](https://www.devopsdays.org/events/2018-silicon-valley/welcome/) conferences.
+Accompanying repository for the DevOps Days 2018 [Seattle](https://www.devopsdays.org/events/2018-seattle/welcome/) and [Silicon Valley](https://www.devopsdays.org/events/2018-silicon-valley/welcome/) conferences. 
 
 # Abstract
-We know DevOps culture requires increased collaboration between teams to move faster and be more agile. But what do you do when you’re forced to work with someone who just doesn’t get it, and how do you get to a place where work can happen seamlessly? This talk uses empirical research and practical tips to tell you how to learn more about yourself, understand the perspective of others, and bring empathy into your daily work. [Slides found here.](https://speakerdeck.com/thesarahhagan/youre-so-empathetic-you-probably-know-this-talks-not-about-you-devopsdays-sea-2018)
+We know DevOps culture requires increased collaboration between teams to move faster and be more agile. But what do you do when you’re forced to work with someone who just doesn’t get it, and how do you get to a place where work can happen seamlessly? This talk uses empirical research and practical tips to tell you how to learn more about yourself, understand the perspective of others, and bring empathy into your daily work. [Slides found here](https://speakerdeck.com/thesarahhagan/youre-so-empathetic-you-probably-know-this-talks-not-about-you-devopsdays-sea-2018), [video found here](https://www.youtube.com/watch?v=f9_MK3kFkho)!
 
 # References and Other Resources
 ### Empathy 101:
